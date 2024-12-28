@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/68262695?s=400&u=b743b0538a2ae396d5b960b2e11935963ec1bfdb&v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
