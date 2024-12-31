@@ -8,6 +8,6 @@ tags:
   - math-rock
 categories:
   - Music
-media_subpath: ../_img/
+media_subpath: assets/lib/img
 ---
-![3by3](../_img/3x3.jpg)
+![post](../assets/lib/img/3x3.jpg)
