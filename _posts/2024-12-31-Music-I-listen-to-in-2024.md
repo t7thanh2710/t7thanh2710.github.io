@@ -10,5 +10,5 @@ categories:
   - Music
 media_subpath: assets/img
 ---
-![3by3|700](../assets/img/3x3.jpg)
+![3by3|700](3x3.jpg)
 This is my 3x3
