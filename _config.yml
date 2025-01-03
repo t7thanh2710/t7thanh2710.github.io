@@ -16,7 +16,7 @@ timezone: Asia/Bangkok
 
 title: My thoughts # the main title
 
-tagline: A personal blog # it will display as the subtitle
+tagline: Nguyen Phan Tuan Thanh # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Normal guy try to write stuffs.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/68262695?s=400&u=b743b0538a2ae396d5b960b2e11935963ec1bfdb&v=4
+avatar: assets/img/a.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
