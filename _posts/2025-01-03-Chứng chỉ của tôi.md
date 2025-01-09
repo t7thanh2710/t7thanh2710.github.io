@@ -7,6 +7,7 @@ categories:
   - My CV
 ---
 # Khóa học phát triển năng lực kinh doanh thương mại điện tử nâng cao - Lazada
+
 ![Lazada](assets/img/Lazada_Certificate_Nguyễn%20Phan%20Tuấn%20Thành.jpg)
 # Ielts 7.0 IDP 2021
 
